@@ -1,1 +1,2 @@
-project of group G6
+semester project in java.
+using server - client architecture and multi threading in the server.
